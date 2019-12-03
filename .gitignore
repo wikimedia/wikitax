@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*~
+ipython/.ipynb_checkpoints
+.pytest_cache
+
+# C extensions
+*.so
+
+# Demo files
+demo_*.py
+
+# Datasets & Models
+datasets/
+models/*.model
+
+# Distribution / packaging
+.Python
+env/
+bin/
+build/
+docs/_build/
+develop-eggs/
+dist/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+_build/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+
+# Translations
+*.mo
+
+# Mr Developer
+.mr.developer.cfg
+.project
+.pydevproject
+
+# Rope
+.ropeproject
+
+# Django stuff:
+*.log
+*.pot
+
+# Sphinx documentation
+doc/_build/
+
+# pyCharm, IntelliJ
+*.idea
+*.iml
