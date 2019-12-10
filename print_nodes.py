@@ -1,9 +1,9 @@
 """
-Check the WikiProjects in a taxonomy to make sure that they exist.
+Print out the nodes of a taxonomy
 
 Usage:
-    check_wikiprojects (-h | help)
-    check_wikiprojects <taxon>... [--debug]
+    print_nodes (-h | help)
+    print_nodes <taxon>... [--debug]
 
 Options:
     -h --help     Prints this documentation
