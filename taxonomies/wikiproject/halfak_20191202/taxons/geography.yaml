@@ -24,11 +24,17 @@ Geography:
    - WikiProject Deserts
    - WikiProject Mountains
    - WikiProject British and Irish hills
+   - WikiProject British Empire
    - WikiProject Mountains of the Alps
    - WikiProject New Hampshire Mountains
    - WikiProject Volcanoes
+   - WikiProject Antarctica
+   - WikiProject Overseas France
+   - WikiProject United States Territories
   Regions:
     Africa:
+      Africa*:
+       - WikiProject Africa
       Eastern Africa:
        - WikiProject Burundi
        - WikiProject Comoros
@@ -253,6 +259,8 @@ Geography:
        - WikiProject Uruguay
        - WikiProject Venezuela
     Asia:
+      Asia*:
+       - WikiProject Asia
       North Asia:
        - WikiProject Russia
        - WikiProject Caucasia
@@ -260,12 +268,26 @@ Geography:
        - WikiProject Soviet Union
       Central Asia:
        - WikiProject Central Asia
-       - WikiProject Iran
        - WikiProject Kazakhstan
        - WikiProject Kyrgyzstan
        - WikiProject Tajikistan
        - WikiProject Turkmenistan
        - WikiProject Uzbekistan
+      West Asia:
+       - Wikiproject Western Asia
+       - WikiProject Armenia
+       - WikiProject Cyprus
+       - WikiProject Georgia (country)
+       - WikiProject Iran
+       - WikiProject Iraq
+       - WikiProject Israel
+       - WikiProject Lebanon
+       - WikiProject Palestine
+       - WikiProject Saudi Arabia
+       - WikiProject Syria
+       - WikiProject Turkey
+       - WikiProject United Arab Emirates
+       - WikiProject Yemen
       South Asia:
        - WikiProject South Asia
        - WikiProject Mithila
@@ -278,6 +300,7 @@ Geography:
        - WikiProject Afghanistan
        - WikiProject Bangladesh
        - WikiProject India
+       - Wikiproject Pakistan
        - WikiProject Andaman and Nicobar Islands
        - WikiProject Andhra Pradesh
        - WikiProject Assam
@@ -347,6 +370,9 @@ Geography:
        - WikiProject Mongols
        - WikiProject Taiwan
     Europe:
+      Europe*:
+       - WikiProject Europe
+       - WikiProject European Microstates
       Eastern Europe:
        - WikiProject Eastern Europe
        - WikiProject Belarus
@@ -450,6 +476,7 @@ Geography:
        - WikiProject Serbia
        - WikiProject Slovenia
        - WikiProject Spain
+       - WikiProject Yugoslavia
        - WikiProject Vatican City
       Western Europe:
        - WikiProject Austria
@@ -457,7 +484,9 @@ Geography:
        - WikiProject Belgium
        - WikiProject France
        - WikiProject French communes
+       - WikiProject Normandy
        - WikiProject Germany
+       - WikiProject Bavaria
        - WikiProject Frankfurt
        - WikiProject German districts
        - WikiProject Munich
