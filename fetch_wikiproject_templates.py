@@ -95,15 +95,15 @@ def fetch_wikiproject_templates(taxonomy, session, threads):
                 else:
                     logger.error("Could not process {0}: {1}".format(
                         wikiproject_name, doc))
-                    return {'error': doc}
+                    return {wikiproject_name: doc}
             else:
                 logger.error("Could not process {0}: {1}".format(
                     wikiproject_name, doc))
-                return {'error': doc}
+                return {wikiproject_name: doc}
         else:
             logger.error("Could not process {0}: {1}".format(
                 wikiproject_name, doc))
-            return {'error': doc}
+            return {wikiproject_name: doc}
 
     with ThreadPoolExecutor(max_workers=threads) as executor:
         # Remove dupes
