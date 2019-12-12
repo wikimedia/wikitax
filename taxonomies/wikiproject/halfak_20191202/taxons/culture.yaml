@@ -45,6 +45,23 @@ Culture:
      - WikiProject Women in Red
      - WikiProject Women's History
      - WikiProject Women's sport
+  Entertainment:
+   - WikiProject Entertainment
+   - WikiProject Actors and Filmmakers
+   - WikiProject Animation
+   - WikiProject Anime and manga
+   - WikiProject Animals in media
+   - WikiProject Comedy
+   - WikiProject Entertainment Technology
+   - WikiProject Film
+   - WikiProject Games
+   - WikiProject Video games
+   - WikiProject Horror
+   - WikiProject Professional wrestling
+   - WikiProject Radio Stations
+   - WikiProject Sports
+   - WikiProject Television
+   - WikiProject YouTube
   Food and drink:
    - WikiProject Food and drink
    - WikiProject Bacon
@@ -100,14 +117,6 @@ Culture:
   Media:
     Media*:
      - WikiProject Media
-    Entertainment:
-     - WikiProject Entertainment
-     - WikiProject Animals in media
-     - WikiProject Comedy
-     - WikiProject Entertainment Technology
-     - WikiProject Games
-     - WikiProject Professional wrestling
-     - WikiProject YouTube
     Music:
      - WikiProject Australian music
      - WikiProject Musicians
@@ -189,64 +198,55 @@ Culture:
      - WikiProject Eurovision
     Video games:
      - WikiProject Video games
-    Software:
-     - WikiProject Java
-     - WikiProject Linux
-     - WikiProject Malware
-     - WikiProject RISC OS
-     - WikiProject Software
-     - WikiProject Amiga
-     - WikiProject Apple Inc.
-     - WikiProject C/C++
-     - WikiProject Microsoft
-     - WikiProject .NET
-     - WikiProject Google
-     - WikiProject Internet
   Performing arts:
-   - WikiProject Circus
-   - WikiProject Dance
-   - WikiProject Ballet
-   - WikiProject Opera
-   - WikiProject Magic
-   - WikiProject Theatre
-   - WikiProject Musical Theatre
-   - WikiProject Stagecraft
-   - WikiProject Elizabethan theatre
-   - WikiProject Shakespeare
+    Dance:
+     - WikiProject Circus
+     - WikiProject Dance
+     - WikiProject Ballet
+    Theater:
+     - WikiProject Opera
+     - WikiProject Magic
+     - WikiProject Theatre
+     - WikiProject Musical Theatre
+     - WikiProject Stagecraft
+     - WikiProject Elizabethan theatre
+     - WikiProject Shakespeare
   Philosophy and religion:
-   - WikiProject Philosophy
-   - WikiProject Alternative medicine
-   - WikiProject Alternative views
-   - WikiProject Logic
-   - WikiProject Objectivism
-   - WikiProject Skepticism
-   - WikiProject Religion
-   - WikiProject Atheism
-   - WikiProject Hinduism
-   - WikiProject Bahá'í Faith
-   - WikiProject Brahmoism
-   - WikiProject Buddhism
-   - WikiProject Christianity
-   - WikiProject Christianity in India
-   - WikiProject Germanic Mysticism
-   - WikiProject Holidays
-   - WikiProject Jainism
-   - WikiProject Jewish Christianity
-   - WikiProject Mythology
-   - WikiProject Prem Rawat
-   - WikiProject Skepticism
-   - WikiProject Ravidassia
-   - WikiProject Religious texts
-   - WikiProject Scientology
-   - WikiProject Sikhism
-   - WikiProject Spirituality
-   - WikiProject Taoism
-   - WikiProject Zoroastrianism
-   - WikiProject Astrology
-   - WikiProject Creationism
-   - WikiProject Cryptozoology
-   - WikiProject Paranormal
-   - WikiProject Parapsychology
+    Philosophy:
+     - WikiProject Philosophy
+     - WikiProject Alternative medicine
+     - WikiProject Alternative views
+     - WikiProject Logic
+     - WikiProject Objectivism
+     - WikiProject Skepticism
+    Religion:
+     - WikiProject Religion
+     - WikiProject Atheism
+     - WikiProject Hinduism
+     - WikiProject Bahá'í Faith
+     - WikiProject Brahmoism
+     - WikiProject Buddhism
+     - WikiProject Christianity
+     - WikiProject Christianity in India
+     - WikiProject Germanic Mysticism
+     - WikiProject Holidays
+     - WikiProject Jainism
+     - WikiProject Jewish Christianity
+     - WikiProject Mythology
+     - WikiProject Prem Rawat
+     - WikiProject Skepticism
+     - WikiProject Ravidassia
+     - WikiProject Religious texts
+     - WikiProject Scientology
+     - WikiProject Sikhism
+     - WikiProject Spirituality
+     - WikiProject Taoism
+     - WikiProject Zoroastrianism
+     - WikiProject Astrology
+     - WikiProject Creationism
+     - WikiProject Cryptozoology
+     - WikiProject Paranormal
+     - WikiProject Parapsychology
   Sports:
    - WikiProject Sports
    - WikiProject Women's sport
