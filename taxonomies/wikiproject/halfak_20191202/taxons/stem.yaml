@@ -15,6 +15,8 @@ STEM:
   Biology:
    - WikiProject Biology
    - WikiProject Molecular Biology
+   - WikiProject Molecular Biology/Molecular and Cell Biology
+   - WikiProject Molecular Biology/Genetics
    - WikiProject Ecology
    - WikiProject Ecoregions
    - WikiProject Evolutionary biology
@@ -41,6 +43,7 @@ STEM:
    - WikiProject Birds
    - WikiProject Dinosaurs
    - WikiProject Fishes
+   - WikiProject Turtles
    - WikiProject Aquarium Fishes
    - WikiProject Sharks
    - WikiProject Gastropods
@@ -75,13 +78,6 @@ STEM:
    - WikiProject Physical Chemistry
    - WikiProject Polymers
    - WikiProject Spectroscopy
-  Economics:
-   - WikiProject Economics
-   - WikiProject Finance & Investment
-   - WikiProject Game theory
-   - WikiProject Global Economics
-   - WikiProject Retailing
-   - WikiProject Trade
   Engineering:
    - WikiProject Engineering
    - WikiProject Chemical and Bio Engineering
@@ -92,44 +88,44 @@ STEM:
    - WikiProject Signal Processing
    - WikiProject Systems Engineering Initiative
    - WikiProject Watches
-  Geosciences & Environment:
-    Environment:
-     - WikiProject Climate
-     - WikiProject Environment
-     - WikiProject Forestry
-     - WikiProject Meteorology
-     - WikiProject Pollution
-     - WikiProject Severe weather
-     - WikiProject Tropical cyclones
-     - WikiProject Non-tropical storms
-    Geosciences:
-     - WikiProject Geology
-     - WikiProject Earthquakes
-     - WikiProject Palaeontology
-     - WikiProject Rocks and minerals
-     - WikiProject Soil
-     - WikiProject Volcanoes
-  Information science:
-    Libraries:
-     - WikiProject Libraries
-     - WikiProject Digital Preservation
-     - WikiProject Reference works
-     - WikiProject Collections Care
-    Computing:
-     - WikiProject Computing
-     - WikiProject Computer graphics
-     - WikiProject Computer music
-     - WikiProject Computer science
-     - WikiProject Computer Security
-     - WikiProject Computer Vision
-     - WikiProject Cryptography
-     - WikiProject Databases
-     - WikiProject Game theory
-     - WikiProject Internet
-     - WikiProject IRC
-     - WikiProject Parallel and Distributed Computing Systems
-     - WikiProject Perl
-     - WikiProject NLP concepts and methods
+   - WikiProject Transport
+   - WikiProject Automobiles
+   - WikiProject Aviation
+   - WikiProject Aircraft
+  Earth and environment:
+   - WikiProject Climate
+   - WikiProject Environment
+   - WikiProject Forestry
+   - WikiProject Meteorology
+   - WikiProject Pollution
+   - WikiProject Severe weather
+   - WikiProject Tropical cyclones
+   - WikiProject Non-tropical storms
+   - WikiProject Geology
+   - WikiProject Earthquakes
+   - WikiProject Palaeontology
+   - WikiProject Rocks and minerals
+   - WikiProject Soil
+   - WikiProject Volcanoes
+   - WikiProject Antarctica
+  Libraries & Information:
+   - WikiProject Libraries
+   - WikiProject Digital Preservation
+   - WikiProject Reference works
+   - WikiProject Collections Care
+  Computing:
+   - WikiProject Computing
+   - WikiProject Computer graphics
+   - WikiProject Computer music
+   - WikiProject Computer science
+   - WikiProject Computer Security
+   - WikiProject Computer Vision
+   - WikiProject Cryptography
+   - WikiProject Databases
+   - WikiProject Game theory
+   - WikiProject Parallel and Distributed Computing Systems
+   - WikiProject Perl
+   - WikiProject NLP concepts and methods
   Mathematics:
    - WikiProject Mathematics
    - WikiProject Cryptography
@@ -177,44 +173,33 @@ STEM:
    - WikiProject Moon
    - WikiProject Spaceflight
   Technology:
-    Technology*:
-     - WikiProject Women in Technology
-     - WikiProject Technology
-     - WikiProject Entertainment Technology
-     - WikiProject Telecommunications
-     - WikiProject Blu-ray
-     - WikiProject Blades
-     - WikiProject Electronics
-     - WikiProject Engineering
-     - WikiProject Energy
-     - WikiProject Firearms
-     - WikiProject Metalworking
-     - WikiProject Polymers
-     - WikiProject Robotics
-     - WikiProject Sanitation
-     - WikiProject Woodworking
-     - WikiProject Rocketry
-    Transportation:
-     - WikiProject Transport
-     - WikiProject Automobiles
-     - WikiProject Aviation
-     - WikiProject Aircraft
-     - WikiProject Airlines
-     - WikiProject Gliding
-     - WikiProject Irish Maritime
-     - WikiProject UK Waterways
-     - WikiProject London Transport
-     - WikiProject Transport in Scotland
-     - WikiProject Spaceflight
-    Software:
-     - WikiProject Java
-     - WikiProject Linux
-     - WikiProject Malware
-     - WikiProject RISC OS
-     - WikiProject Software
-     - WikiProject Amiga
-     - WikiProject Apple Inc.
-     - WikiProject C/C++
-     - WikiProject Microsoft
-     - WikiProject .NET
-     - WikiProject Google
+   - WikiProject Women in Technology
+   - WikiProject Technology
+   - WikiProject Entertainment Technology
+   - WikiProject Telecommunications
+   - WikiProject Blu-ray
+   - WikiProject Blades
+   - WikiProject Electronics
+   - WikiProject Engineering
+   - WikiProject Energy
+   - WikiProject Firearms
+   - WikiProject Metalworking
+   - WikiProject Polymers
+   - WikiProject Robotics
+   - WikiProject Sanitation
+   - WikiProject Woodworking
+   - WikiProject Rocketry
+   - WikiProject Java
+   - WikiProject Linux
+   - WikiProject Malware
+   - WikiProject RISC OS
+   - WikiProject Software
+   - WikiProject Amiga
+   - WikiProject Apple Inc.
+   - WikiProject C/C++
+   - WikiProject Microsoft
+   - WikiProject .NET
+   - WikiProject Google
+   - WikiProject Internet
+   - WikiProject Spaceflight
+   - WikiProject Parallel and Distributed Computing Systems
