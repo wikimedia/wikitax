@@ -66,6 +66,7 @@ def fetch_wikiproject_templates(taxonomy, session, threads):
             prop='linkshere',
             lhshow='redirect',
             lhnamespace=10,
+            lhlimit=500,
             redirects='true',
             titles='Template:'+wikiproject_name
         )
@@ -78,17 +79,30 @@ def fetch_wikiproject_templates(taxonomy, session, threads):
                     template_redirect_links = \
                         doc['query']['pages'][0]['linkshere']
 
+                    # list of template redirect titles
                     template_redirect_titles = \
                         [link['title'].replace('Template:', '')
                             for link in template_redirect_links]
 
+                    # add canonical template title to
+                    # list of template redirect titles
+                    template_redirect_titles.append(
+                        doc['query']['pages'][0]['title']
+                        .replace('Template:', ''))
+
                     return template_redirect_titles
 
                 else:
+                    logger.error("Could not process {0}: {1}".format(
+                        wikiproject_name, doc))
                     return {'error': doc}
             else:
+                logger.error("Could not process {0}: {1}".format(
+                    wikiproject_name, doc))
                 return {'error': doc}
         else:
+            logger.error("Could not process {0}: {1}".format(
+                wikiproject_name, doc))
             return {'error': doc}
 
     with ThreadPoolExecutor(max_workers=threads) as executor:
