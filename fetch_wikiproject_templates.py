@@ -62,6 +62,7 @@ def fetch_wp_templates(taxonomy, session, threads):
                           lhshow='redirect', lhnamespace=10, lhlimit=500,
                           redirects=True,
                           titles="Template:" + wikiproject_name)
+        templates = set([wikiproject_name])
         if 'error' in doc:
             logging.error("Could not process {0}: {1}"
                           .format(wikiproject_name, doc['error']))
@@ -72,7 +73,7 @@ def fetch_wp_templates(taxonomy, session, threads):
                     "Could not process {0}: could not find main template"
                     .format(wikiproject_name))
             else:
-                templates.add(doc['query']['pages'][0]['title'])
+                templates.add(doc['query']['pages'][0]['title'][9:])
 
             for linkshere in doc['query']['pages'][0].get('linkshere', []):
                 templates.add(linkshere['title'][9:])
