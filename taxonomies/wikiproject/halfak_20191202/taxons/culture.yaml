@@ -8,6 +8,7 @@ Culture:
      - WikiProject Genealogy
      - WikiProject Hugo and Nebula Award Winners
      - WikiProject Indigenous peoples of Australia
+     - WikiProject Indigenous peoples of North America
      - WikiProject Leaders by year
      - WikiProject Musicians
      - WikiProject Living people
@@ -33,6 +34,7 @@ Culture:
      - WikiProject Franco-Americans
      - WikiProject Pashtun
      - WikiProject Taiwan
+     - WikiProject Referees
     Women:
      - WikiProject Women
      - WikiProject Women artists
@@ -60,6 +62,8 @@ Culture:
    - WikiProject IRC
    - WikiProject Blogging
    - WikiProject YouTube
+   - WikiProject Websites
+   - WikiProject Apps
   Linguistics:
    - WikiProject Linguistics
    - WikiProject Anthroponymy
@@ -85,6 +89,7 @@ Culture:
    - WikiProject Balzac
    - WikiProject Bible
    - WikiProject Books
+   - WikiProject Magazines
    - WikiProject Children's literature
    - WikiProject Hugo and Nebula Award Winners
    - WikiProject Indian literature
@@ -100,6 +105,8 @@ Culture:
   Media:
     Media*:
      - WikiProject Media
+     - WikiProject Journalism
+     - WikiProject BBC
     Entertainment:
      - WikiProject Entertainment
      - WikiProject Animals in media
@@ -108,6 +115,12 @@ Culture:
      - WikiProject Games
      - WikiProject Professional wrestling
      - WikiProject YouTube
+     - WikiProject Soap Operas
+     - WikiProject Magazines
+     - WikiProject Science Fiction
+     - WikiProject Amusement Parks
+     - WikiProject Gambling
+     - WikiProject Toys
     Music:
      - WikiProject Australian music
      - WikiProject Musicians
@@ -160,6 +173,8 @@ Culture:
      - WikiProject Guitarists
      - WikiProject Albums
      - WikiProject Discographies
+     - WikiProject Record Labels
+     - WikiProject The Beatles
     Films:
      - WikiProject Film
      - WikiProject Actors and Filmmakers
@@ -179,14 +194,18 @@ Culture:
      - WikiProject Australian television
      - WikiProject British television
      - WikiProject Canadian television
+     - WikiProject Doctor Who
      - WikiProject Indian television
      - WikiProject Scottish television
+     - WikiProject British television/Shows
+     - WikiProject Nickelodeon
      - WikiProject Professional wrestling
      - WikiProject Television Game Shows
      - WikiProject Television Stations
      - WikiProject The Simpsons
      - WikiProject Star Trek
      - WikiProject Eurovision
+     - WikiProject Soap Operas
     Video games:
      - WikiProject Video games
     Software:
@@ -217,21 +236,27 @@ Culture:
    - WikiProject Philosophy
    - WikiProject Alternative medicine
    - WikiProject Alternative views
+   - WikiProject Anglicanism
    - WikiProject Logic
    - WikiProject Objectivism
    - WikiProject Skepticism
    - WikiProject Religion
    - WikiProject Atheism
+   - WikiProject Judaism
+   - WikiProject Jewish history
+   - WikiProject Islam
    - WikiProject Hinduism
    - WikiProject Bahá'í Faith
    - WikiProject Brahmoism
    - WikiProject Buddhism
    - WikiProject Christianity
    - WikiProject Christianity in India
+   - WikiProject Catholicism
    - WikiProject Germanic Mysticism
    - WikiProject Holidays
    - WikiProject Jainism
    - WikiProject Jewish Christianity
+   - WikiProject Lutheranism
    - WikiProject Mythology
    - WikiProject Prem Rawat
    - WikiProject Skepticism
@@ -249,6 +274,7 @@ Culture:
    - WikiProject Parapsychology
   Sports:
    - WikiProject Sports
+   - WikiProject Event Venues/Sports task force
    - WikiProject Women's sport
    - WikiProject Athletics
    - WikiProject Australian sports
@@ -258,6 +284,9 @@ Culture:
    - WikiProject Boxing
    - WikiProject Caves
    - WikiProject Climbing
+   - WikiProject Chess
+   - WikiProject College Football
+   - WikiProject College Basketball
    - WikiProject Cricket
    - WikiProject Cycling
    - WikiProject Extreme sports
@@ -268,9 +297,11 @@ Culture:
    - WikiProject Gymnastics
    - WikiProject Lacrosse
    - WikiProject Motorcycling
+   - WikiProject Multi-sport events
    - WikiProject Olympics
    - WikiProject Paintball
    - WikiProject Running
+   - WikiProject Scouting
    - WikiProject Skateboarding
    - WikiProject Softball
    - WikiProject Sports Results
@@ -279,6 +310,8 @@ Culture:
    - WikiProject Triathlon
    - WikiProject Volleyball
    - WikiProject American football
+   - WikiProject National Football League
+   - WikiProject Green Bay Packers
    - WikiProject Australian sports
    - WikiProject Baseball
    - WikiProject Basketball
@@ -290,6 +323,7 @@ Culture:
    - WikiProject Indian sports
    - WikiProject Martial arts
    - WikiProject Mixed martial arts
+   - WikiProject National Basketball Association
    - WikiProject Sumo
    - WikiProject Motorsport
    - WikiProject American Open Wheel Racing
@@ -312,6 +346,7 @@ Culture:
    - WikiProject Underwater diving
    - WikiProject Swimming
    - WikiProject Winter sports
+   - WikiProject Referees
    - WikiProject Biathlon
    - WikiProject Curling
    - WikiProject Figure Skating
@@ -330,11 +365,15 @@ Culture:
      - WikiProject Painting
      - WikiProject Photography
      - WikiProject Typography
+     - WikiProject Sculpture
+     - WikiProject Public Art
     Architecture:
      - WikiProject Architecture
      - WikiProject Bridges and Tunnels
      - WikiProject Event Venues
      - WikiProject Hotels
+     - WikiProject Shopping Centers
+     - WikiProject Skyscrapers
      - WikiProject Lighthouses
      - WikiProject Museums
      - WikiProject National Register of Historic Places
@@ -346,3 +385,6 @@ Culture:
      - WikiProject Pokémon
      - WikiProject The Simpsons
      - WikiProject Transformers
+    Fashion:
+     - WikiProject Fashion
+     - WikiProject Beauty Pageants
