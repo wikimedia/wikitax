@@ -65,6 +65,8 @@ Geography:
        - WikiProject Sao Tome and Principe
       Northern Africa:
        - WikiProject Algeria
+       - WikiProject Arab world
+       - WikiProject Berbers
        - WikiProject Egypt
        - WikiProject Libya
        - WikiProject Morocco
@@ -81,6 +83,7 @@ Geography:
        - WikiProject Benin
        - WikiProject Burkina Faso
        - WikiProject Cape Verde
+       - WikiProject Igbo
        - WikiProject Ivory Coast
        - WikiProject Gambia
        - WikiProject Ghana
@@ -275,14 +278,19 @@ Geography:
        - WikiProject Uzbekistan
       West Asia:
        - WikiProject Western Asia
+       - WikiProject Arab world
        - WikiProject Armenia
+       - WikiProject Assyria
+       - WikiProject Azerbaijan
        - WikiProject Cyprus
        - WikiProject Georgia (country)
        - WikiProject Iran
        - WikiProject Iraq
        - WikiProject Israel
+       - WikiProject Israel Palestine Collaboration
        - WikiProject Lebanon
        - WikiProject Palestine
+       - WikiProject Pashtun
        - WikiProject Saudi Arabia
        - WikiProject Syria
        - WikiProject Turkey
@@ -341,6 +349,7 @@ Geography:
        - WikiProject Punjab (India)
        - WikiProject Rajasthan
        - WikiProject Sikkim
+       - WikiProject Tamil civilization
        - WikiProject Tamil Nadu
        - WikiProject Tripura
        - WikiProject Uttar Pradesh
@@ -457,10 +466,12 @@ Geography:
        - WikiProject Belfast
        - WikiProject Scotland
        - WikiProject Scottish Islands
+       - WikiProject Clans of Scotland
        - WikiProject Cardiff
       Southern Europe:
        - WikiProject Albania
        - WikiProject Andorra
+       - WikiProject Basque
        - WikiProject Bosnia and Herzegovina
        - WikiProject Croatia
        - WikiProject Gibraltar

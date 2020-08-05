@@ -26,14 +26,7 @@ Culture:
      - WikiProject Indigenous peoples of North America
      - WikiProject African diaspora
      - WikiProject Asian Americans
-     - WikiProject Assyria
-     - WikiProject Azerbaijan
-     - WikiProject Basque
-     - WikiProject Berbers
-     - WikiProject Igbo
      - WikiProject Franco-Americans
-     - WikiProject Pashtun
-     - WikiProject Taiwan
      - WikiProject Referees
     Women:
      - WikiProject Women
@@ -43,7 +36,6 @@ Culture:
      - WikiProject Jewish Women
      - WikiProject Women in Music
      - WikiProject Women in Technology
-     - WikiProject Women's sport
      - WikiProject Women in Red
      - WikiProject Women's History
      - WikiProject Women's sport
@@ -67,7 +59,6 @@ Culture:
   Linguistics:
    - WikiProject Linguistics
    - WikiProject Anthroponymy
-   - WikiProject Basque
    - WikiProject Chinese surnames
    - WikiProject Constructed languages
    - WikiProject Dravidian languages
@@ -455,6 +446,8 @@ Geography:
        - WikiProject Sao Tome and Principe
       Northern Africa:
        - WikiProject Algeria
+       - WikiProject Arab world
+       - WikiProject Berbers
        - WikiProject Egypt
        - WikiProject Libya
        - WikiProject Morocco
@@ -471,6 +464,7 @@ Geography:
        - WikiProject Benin
        - WikiProject Burkina Faso
        - WikiProject Cape Verde
+       - WikiProject Igbo
        - WikiProject Ivory Coast
        - WikiProject Gambia
        - WikiProject Ghana
@@ -665,14 +659,19 @@ Geography:
        - WikiProject Uzbekistan
       West Asia:
        - WikiProject Western Asia
+       - WikiProject Arab world
        - WikiProject Armenia
+       - WikiProject Assyria
+       - WikiProject Azerbaijan
        - WikiProject Cyprus
        - WikiProject Georgia (country)
        - WikiProject Iran
        - WikiProject Iraq
        - WikiProject Israel
+       - WikiProject Israel Palestine Collaboration
        - WikiProject Lebanon
        - WikiProject Palestine
+       - WikiProject Pashtun
        - WikiProject Saudi Arabia
        - WikiProject Syria
        - WikiProject Turkey
@@ -731,6 +730,7 @@ Geography:
        - WikiProject Punjab (India)
        - WikiProject Rajasthan
        - WikiProject Sikkim
+       - WikiProject Tamil civilization
        - WikiProject Tamil Nadu
        - WikiProject Tripura
        - WikiProject Uttar Pradesh
@@ -847,10 +847,12 @@ Geography:
        - WikiProject Belfast
        - WikiProject Scotland
        - WikiProject Scottish Islands
+       - WikiProject Clans of Scotland
        - WikiProject Cardiff
       Southern Europe:
        - WikiProject Albania
        - WikiProject Andorra
+       - WikiProject Basque
        - WikiProject Bosnia and Herzegovina
        - WikiProject Croatia
        - WikiProject Gibraltar
@@ -954,6 +956,8 @@ History and Society:
    - WikiProject Norse history and culture
    - WikiProject Middle Ages
    - WikiProject Ottoman Empire
+   - WikiProject Pakistani history
+   - WikiProject Russian history
    - WikiProject Yugoslavia
    - WikiProject United States History
    - WikiProject Women's History
@@ -967,24 +971,14 @@ History and Society:
    - WikiProject Philately
    - WikiProject Shipwrecks
   Society:
-   - WikiProject Awards
    - WikiProject Gender Studies
    - WikiProject LGBT studies
-   - WikiProject Modern Western Europe
-   - WikiProject Pakistani history
-   - WikiProject Russian history
    - WikiProject Sexology and sexuality
    - WikiProject Ageing and culture
-   - WikiProject Agriculture
-   - WikiProject Alternative views
    - WikiProject Animal rights
-   - WikiProject Arab world
    - WikiProject Corruption
    - WikiProject Cultural Evolution
    - WikiProject Disability
-   - WikiProject Environment
-   - WikiProject Fisheries and Fishing
-   - WikiProject Forestry
    - WikiProject Globalization
    - WikiProject Home Living
    - WikiProject Human rights
@@ -992,20 +986,8 @@ History and Society:
    - WikiProject Nonviolence
    - WikiProject Ethnic groups
    - WikiProject African diaspora
-   - WikiProject Asian Americans
    - WikiProject Anthropology
-   - WikiProject Assyria
-   - WikiProject Azerbaijan
-   - WikiProject Basque
-   - WikiProject Berbers
-   - WikiProject Clans of Scotland
-   - WikiProject Igbo
    - WikiProject Indian caste system
-   - WikiProject Franco-Americans
-   - WikiProject Pashtun
-   - WikiProject Taiwan
-   - WikiProject Tamil civilization
-   - WikiProject Israel Palestine Collaboration
    - WikiProject Sociology
    - WikiProject Feminism
   Business and economics:
@@ -1243,8 +1225,10 @@ STEM:
    - WikiProject Aviation
    - WikiProject Aircraft
   Earth and environment:
+   - WikiProject Agriculture
    - WikiProject Climate
    - WikiProject Environment
+   - WikiProject Fisheries and Fishing
    - WikiProject Forestry
    - WikiProject Meteorology
    - WikiProject Pollution
